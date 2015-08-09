@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 2.2.3
+version: 2.3.0
 apiversion: 2
 architectures: armeabi armeabi-v7a x86
 description: PayPal module for PayPal transactions
@@ -15,4 +15,4 @@ name: paypal
 moduleid: ti.paypal
 guid: 806d55c1-4ff6-4b11-951a-115af5053252
 platform: android
-minsdk: 3.2.2.GA
+minsdk: 4.0.0.GA
